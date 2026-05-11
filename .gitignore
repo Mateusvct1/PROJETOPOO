@@ -1,0 +1,20 @@
+# Arquivos compilados
+bin/
+
+# Configurações do VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Sistema Linux
+*.swp
+
+# Sistema Windows
+Thumbs.db
+
+# Sistema macOS
+.DS_Store
