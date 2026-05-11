@@ -6,6 +6,7 @@ O presente projeto é para disciplina de Programação orientada a Objetos sendo
 ## Objetivo
 ## Funcionalidades
 ## Tecnologias usadas
+   * Java (linguagem) 
 ## Como executar
 
 ### Autores
