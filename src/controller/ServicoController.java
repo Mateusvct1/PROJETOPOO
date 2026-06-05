@@ -1,8 +1,8 @@
 package controller;
 
+import java.util.List;
 import model.Servico;
 import service.ServicoService;
-import java.util.List;
 
 public class ServicoController {
 
